@@ -1,3 +1,4 @@
+#program to add arrays
 def add(arr1, arr2):
 
     l = max(len(arr1), len(arr2))
